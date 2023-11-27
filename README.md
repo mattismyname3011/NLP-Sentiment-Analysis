@@ -13,9 +13,29 @@
 
 <p style="font-style:italic;font-weight:bold;font-size:18px">The overall benefits of sentiment analysis include:</p>
 
+<dl>
+    <dd>
+        
+    </dd>
+</dl>
+<dl>
+    <dd></dd>
+</dl>
+<dl>
+    <dd></dd>
+</dl>
+<dl>
+    <dd></dd>
+</dl>
+
+
 <details>
 <summary style="font-weight:bold;">Sorting Data at Scale</summary>
-<p style="margin-left:15px">Can you imagine manually sorting through thousands of tweets, customer support conversations, or surveys? There’s just too much business data to process manually. Sentiment analysis helps businesses process huge amounts of unstructured data in an efficient and cost-effective way.</p>
+<dl>
+    <dd>
+        Can you imagine manually sorting through thousands of tweets, customer support conversations, or surveys? There’s just too much business data to process manually. Sentiment analysis helps businesses process huge amounts of unstructured data in an efficient and cost-effective way.
+    </dd>
+</dl>
 </details>
 <details style="">
 <summary style="font-weight:bold;">Real-Time Analysis</summary>
