@@ -11,7 +11,7 @@
 
 <p align="justify">&emsp;&emsp;Sentiment analysis is a NLP technique used to determine whether data is positive, negative or neutral. Sentiment analysis is often performed on textual data to help businesses monitor brand and product sentiment in customer feedback, and understand customer needs. Since humans express their thoughts and feelings more openly than ever before, sentiment analysis is fast becoming an essential tool to monitor and understand sentiment in all types of data. Automatically analyzing customer feedback, such as opinions in survey responses and social media conversations, allows brands to learn what makes customers happy or frustrated, so that they can tailor products and services to meet their customers’ needs. For example, using sentiment analysis to automatically analyze 4,000+ open-ended responses in your customer satisfaction surveys could help you discover why customers are happy or unhappy at each stage of the customer journey<a href="https://monkeylearn.com/sentiment-analysis/">(MonkeyLearn, 2023)</a>.</p>
 
-<p style="font-style:italic;font-weight:bold;font-size:18px">The overall benefits of sentiment analysis include:</p>
+**The overall benefits of sentiment analysis include:**
 
 
 <dl>
