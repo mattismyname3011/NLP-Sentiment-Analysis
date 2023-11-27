@@ -13,17 +13,7 @@
 
 <p style="font-style:italic;font-weight:bold;font-size:18px">The overall benefits of sentiment analysis include:</p>
 
-<dl>
-    <dd>
-        
-    </dd>
-</dl>
-<dl>
-    <dd></dd>
-</dl>
-<dl>
-    <dd></dd>
-</dl>
+
 <dl>
     <dd></dd>
 </dl>
@@ -39,12 +29,19 @@
 </details>
 <details style="">
 <summary style="font-weight:bold;">Real-Time Analysis</summary>
-<p style="margin-left:15px">Sentiment analysis can identify critical issues in real-time, for example is a PR crisis on social media escalating? Is an angry customer about to churn? Sentiment analysis models can help you immediately identify these kinds of situations, so you can take action right away.
-</p>
+
+<dl>
+    <dd>
+        Sentiment analysis can identify critical issues in real-time, for example is a PR crisis on social media escalating? Is an angry customer about to churn? Sentiment analysis models can help you immediately identify these kinds of situations, so you can take action right away.
+    </dd>
+</dl>
 </details>
 <details>
 <summary style="font-weight:bold;">Consistent criteria</summary>
-<p style="margin-left:15px">It’s estimated that people only agree around 60-65% of the time when determining the sentiment of a particular text. Tagging text by sentiment is highly subjective, influenced by personal experiences, thoughts, and beliefs. By using a centralized sentiment analysis system, companies can apply the same criteria to all of their data, helping them improve accuracy and gain better insights.</p>
-<p style="margin-left:15px">
-The applications of sentiment analysis are endless. So, to help you understand how sentiment analysis could benefit your business, let’s take a look at some examples of texts that you could analyze using sentiment analysis. Then, we’ll jump into a real-world example of how Chewy, a pet supplies company, was able to gain a much more nuanced (and useful!) understanding of their reviews through the application of sentiment analysis.</p>
+<dl>
+    <dd>It’s estimated that people only agree around 60-65% of the time when determining the sentiment of a particular text. Tagging text by sentiment is highly subjective, influenced by personal experiences, thoughts, and beliefs. By using a centralized sentiment analysis system, companies can apply the same criteria to all of their data, helping them improve accuracy and gain better insights.</dd>
+</dl>
+<dl>
+    <dd>The applications of sentiment analysis are endless. So, to help you understand how sentiment analysis could benefit your business, let’s take a look at some examples of texts that you could analyze using sentiment analysis. Then, we’ll jump into a real-world example of how Chewy, a pet supplies company, was able to gain a much more nuanced (and useful!) understanding of their reviews through the application of sentiment analysis.</dd>
+</dl>
 </details>
