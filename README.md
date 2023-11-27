@@ -19,7 +19,7 @@
 </dl>
 
 
-<details>
+<details open>
 <summary style="font-weight:bold;">Sorting Data at Scale</summary>
 <dl>
     <dd>
@@ -27,7 +27,7 @@
     </dd>
 </dl>
 </details>
-<details style="">
+<details open>
 <summary style="font-weight:bold;">Real-Time Analysis</summary>
 
 <dl>
@@ -36,7 +36,7 @@
     </dd>
 </dl>
 </details>
-<details>
+<details open>
 <summary style="font-weight:bold;">Consistent criteria</summary>
 <dl>
     <dd>It’s estimated that people only agree around 60-65% of the time when determining the sentiment of a particular text. Tagging text by sentiment is highly subjective, influenced by personal experiences, thoughts, and beliefs. By using a centralized sentiment analysis system, companies can apply the same criteria to all of their data, helping them improve accuracy and gain better insights.</dd>
