@@ -1,5 +1,5 @@
 <h1 align="center">Ohaaa, I'm KumaKumaChan</h1>
-<h3 align="center">A Student of Informatics who passionate a web development and AI project</h3>
+<h3 align="center">An Informatics Student who has an interest in web development and artificial intelligence</h3>
 <p align="center">
     <img align="center" src="https://media.tenor.com/R7CjgAO_z9EAAAAC/kuma-kuma-kuma-bear-sleepy.gif">
 </p>
@@ -23,7 +23,7 @@
 <summary style="font-weight:bold;">Sorting Data at Scale</summary>
 <dl>
     <dd>
-        Can you imagine manually sorting through thousands of tweets, customer support conversations, or surveys? There’s just too much business data to process manually. Sentiment analysis helps businesses process huge amounts of unstructured data in an efficient and cost-effective way.
+        <p align="justify">Can you imagine manually sorting through thousands of tweets, customer support conversations, or surveys? There’s just too much business data to process manually. Sentiment analysis helps businesses process huge amounts of unstructured data in an efficient and cost-effective way.</p>
     </dd>
 </dl>
 </details>
@@ -32,16 +32,20 @@
 
 <dl>
     <dd>
-        Sentiment analysis can identify critical issues in real-time, for example is a PR crisis on social media escalating? Is an angry customer about to churn? Sentiment analysis models can help you immediately identify these kinds of situations, so you can take action right away.
+        <p align="justify">Sentiment analysis can identify critical issues in real-time, for example is a PR crisis on social media escalating? Is an angry customer about to churn? Sentiment analysis models can help you immediately identify these kinds of situations, so you can take action right away.</p>
     </dd>
 </dl>
 </details>
 <details open>
 <summary style="font-weight:bold;">Consistent criteria</summary>
 <dl>
-    <dd>It’s estimated that people only agree around 60-65% of the time when determining the sentiment of a particular text. Tagging text by sentiment is highly subjective, influenced by personal experiences, thoughts, and beliefs. By using a centralized sentiment analysis system, companies can apply the same criteria to all of their data, helping them improve accuracy and gain better insights.</dd>
+    <dd>
+        <p align="justify">It’s estimated that people only agree around 60-65% of the time when determining the sentiment of a particular text. Tagging text by sentiment is highly subjective, influenced by personal experiences, thoughts, and beliefs. By using a centralized sentiment analysis system, companies can apply the same criteria to all of their data, helping them improve accuracy and gain better insights.</p>
+    </dd>
 </dl>
 <dl>
-    <dd>The applications of sentiment analysis are endless. So, to help you understand how sentiment analysis could benefit your business, let’s take a look at some examples of texts that you could analyze using sentiment analysis. Then, we’ll jump into a real-world example of how Chewy, a pet supplies company, was able to gain a much more nuanced (and useful!) understanding of their reviews through the application of sentiment analysis.</dd>
+    <dd>
+        <p align="justify">The applications of sentiment analysis are endless. So, to help you understand how sentiment analysis could benefit your business, let’s take a look at some examples of texts that you could analyze using sentiment analysis. Then, we’ll jump into a real-world example of how Chewy, a pet supplies company, was able to gain a much more nuanced (and useful!) understanding of their reviews through the application of sentiment analysis.</p>
+    </dd>
 </dl>
 </details>
