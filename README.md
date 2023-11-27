@@ -53,5 +53,5 @@
     <dd>
         <b>You Should Click This ---> <a href="https://github-production-user-asset-6210df.s3.amazonaws.com/75870777/285870885-1375ee55-7bbf-4eab-a4a4-5e567c76ae33.mp4">Link</a> to get clear explanation of this content. </b>
     </dd>
-</dl>t
+</dl>
 <!-- <video autoplay align="center" width="1280" height="300" src=""></video> -->
